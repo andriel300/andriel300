@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Andriel José! 👋</h1>
-<h3 align="center">I’m interested in programming, eager to learn more and explore new things! and currently learning Full stack Web Development</h3>
+<h3 align="center">I’m a programmer and I’m currently expanding my Javascript skills, eager to learn more and explore new things!</h3>
 
-☑ SKILLS: HTML5 | CSS3 | PYTHON
+☑ SKILLS: HTML5 | CSS3 | PYTHON | JAVASCRIPT
 
 <div style="display: inline_block">
   <img align="center" alt="Andriel-HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
