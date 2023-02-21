@@ -26,9 +26,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andriel300&show_icons=true&theme=onedark&locale=en" alt="andriel300" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andriel300&theme=dark" alt="andriel300" /></p>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/andriel300/trader-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andriel300&repo=trader-landing-page&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/andriel300/robotfriends" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andriel300&repo=robotfriends&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<br /><br />
-<div width="100%" align="center"><a href="https://github.com/andriel300/background-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andriel300&repo=background-generator&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
