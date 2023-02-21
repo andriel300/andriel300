@@ -2,13 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 <h3 align="center">I’m a programmer and I’m currently expanding my Javascript skills. Self-motivated individual with a calm energy personality and a positive attitude. A Creative thinker, eager to learn more and explore new things!</h3>
 
-
-
-- 🌱 I’m currently learning **Programming, Web Development Full Stack**
-
 - 📫 How to reach me **andrielscript@gmail.com**
-
-- ⚡ Fun fact **I’m very interested in astrology and learning more about myself. I use tabs over Spaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
