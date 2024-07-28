@@ -167,7 +167,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andriel300/andriel300/output/snake.svg" alt="Snake animation" />
 
 ###
 
