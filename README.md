@@ -1,6 +1,16 @@
-<h2 align="left">Hi 👋! My name is Andriel Silva ... and I'm a Computer Science Student, from Brazil<br><br>I'm a programmer with a passion for expanding my skills, particularly in JavaScript. Currently pursuing my bachelor's degree in Computer Science at UNINTER, where I aim to specialize in Data Science. I thrive on self-motivation, maintaining a calm demeanor and a positive attitude towards challenges. A creative thinker by nature, I'm always eager to learn and explore new things in the ever-evolving world of technology.</h2>
+<br clear="both">
+
+<h2 align="left">Hi 👋! My name is Andriel Silva ... and</h2>
 
 ###
+
+<br clear="both">
+
+<h3 align="left">I'm a Computer Science Student, from Brazil<br><br>I'm a programmer with a passion for expanding my skills, particularly in JavaScript. Currently pursuing my bachelor's degree in Computer Science at UNINTER, where I aim to specialize in Data Science. I thrive on self-motivation, maintaining a calm demeanor and a positive attitude towards challenges. A creative thinker by nature, I'm always eager to learn and explore new things in the ever-evolving world of technology.</h3>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andriel300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,21 +19,9 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/andriel.j30/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="andrieldata@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andrieljose/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br clear="both">
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8yim8f.gif"  />
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -146,6 +144,28 @@
 ###
 
 <br clear="both">
+
+<h2 align="left">How to reach me:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/andriel.j30/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="andrieldata@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/andrieljose/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/8yim8f.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/andriel300/andriel300/output/snake.svg" alt="Snake animation" />
 
