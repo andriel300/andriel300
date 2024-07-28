@@ -6,26 +6,33 @@
 
 <br clear="both">
 
-<h3 align="left">I'm a Computer Science Student, from Brazil<br><br>I'm a programmer with a passion for expanding my skills, particularly in JavaScript. Currently pursuing my bachelor's degree in Computer Science at UNINTER, where I aim to specialize in Data Science. I thrive on self-motivation, maintaining a calm demeanor and a positive attitude towards challenges. A creative thinker by nature, I'm always eager to learn and explore new things in the ever-evolving world of technology.</h3>
+<h3 align="left">I'm a Computer Science Student, from Brazil 🇧🇷<br><br>I'm a programmer with a passion for expanding my skills, particularly in JavaScript. Currently pursuing my bachelor's degree in Computer Science at UNINTER, where I aim to specialize in Data Science. I thrive on self-motivation, maintaining a calm demeanor and a positive attitude towards challenges. A creative thinker by nature, I'm always eager to learn and explore new things in the ever-evolving world of technology.</h3>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andriel300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriel300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://i.imgflip.com/8yim8f.gif"  />
 </div>
 
 ###
 
-<br clear="both">
+<h2 align="left">Git Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andriel300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="166" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=andriel300&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="166" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriel300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="167" alt="languages graph"  />
+</div>
+
+###
 
 <h2 align="left">Technologies</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -52,9 +59,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" height="30" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
@@ -143,36 +150,19 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">How to reach me:</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/andriel.j30/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="andrieldata@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/andrieljose/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8yim8f.gif"  />
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andriel300&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andriel300&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
