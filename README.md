@@ -10,10 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/8yim8f.gif"  />
-</div>
-
 ###
 
 <h2 align="left">Git Status</h2>
