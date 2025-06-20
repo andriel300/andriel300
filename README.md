@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver. Cur
 
 - 🎯 Focused on **Backend Development**, **DevOps**, **Data Analysis**, and building robust tools.
 - 💻 Linux enthusiast (Arch btw 🚀), productivity nerd, and minimalist coder.
-- 🔐 Currently developing **[Secure Password CLI](https://github.com/andriel300/secure-password-cli)** — a cross-platform, open-source password manager written in C with GTK GUI and terminal interface.
 - 📊 Passionate about data — dashboards, automation, and generating insights.
 - 🌱 Always learning — from backend systems with **Go**, to mastering **DevOps**, and advancing in **C programming**.
 - 🎯 Career goals: Build meaningful software, contribute to open-source, and grow in backend or DevOps roles.
@@ -21,7 +20,7 @@ Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver. Cur
 
 ## 🌟 Featured Projects
 
-- 🔐 [Secure Password CLI](https://github.com/andriel300/secure-password-cli) — (In progress) Open-source password manager (C + GTK)
+- 🔐 [Secure Password CLI](https://github.com/andriel300/secure-password-cli) — (In progress) Simple Open-source password manager (C + GTK)
 - 📦 Inventory Management System — (In progress) SQL-based CRUD with dashboards
 - 🌐 [Air Conditioning Services Website](https://github.com/andriel300/refrigeracao-website) — Business portfolio using Next.js & TailwindCSS
 
