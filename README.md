@@ -15,8 +15,9 @@ Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver. Cur
 - 🔧 Languages: **Go**, **C**, **C++**, **JavaScript/TypeScript**, **SQL**, **Python**, **Bash**
 - 🧠 Data: **SQL**, **Power BI**, **Tableau** **Pandas**, **Matplotlib**, **Excel**
 - 💻 Dev & OS: **Arch Linux (Hyprland and i3wm)**, **Zsh**, **Neovim**, **QEMU**, **Docker**, **Kubernetes**
-- 🌐 Web Dev: **Next.js**, **TailwindCSS**, **Node.js**
+- 🌐 Web Dev: **Next.js**, **TailwindCSS**, **Node.js**, **CSS**
 - ☁️ Learning: **Cloud, DevOps (CI/CD, Containers)**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriel300&show_icons=true&locale=en&layout=compact" alt="andriel300" /></p>
 
 ## 🌟 Featured Projects
 
