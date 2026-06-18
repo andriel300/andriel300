@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver. Cur
 
 ## 🌟 Featured Projects
 
-- 📦 [E-commerce Multi-vendor shop — (In progress)](https://github.com/andriel300/tec-shop) MicroService Architecture With Nx, Nestjs, Nestjs, Redis, Prisma & MongoDB, Redis, Kafka etc...
+- 📦 [E-commerce Multi-vendor shop](https://github.com/andriel300/tec-shop) MicroService Architecture With Nx, Nestjs, Nestjs, Redis, Prisma & MongoDB, Redis, Kafka etc...
 - 🔐 [Secure Password CLI](https://github.com/andriel300/secure-password-cli) — Simple Open-source password manager (C + GTK)
 - 🌐 [Air Conditioning Services Website](https://github.com/andriel300/refrigeracao-website) — Simple Template Business portfolio using Next.js & TailwindCSS
 
